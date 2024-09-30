@@ -68,11 +68,11 @@ void monty_add_nodes(stack_t **, unsigned int);
 void sub_nodes(stack_t **, unsigned int);
 void div_nodes(stack_t **, unsigned int);
 void mul_nodes(stack_t **, unsigned int);
-void mod_nodes(stack_t **, unsigned int);v
+void mod_nodes(stack_t **, unsigned int);
 
 /* String operations */
 void display_char(stack_t **, unsigned int);
-void display_string(stack_t **, unsigned int);
+void display_str(stack_t **, unsigned int);
 void rotate_left(stack_t **, unsigned int);
 
 /* Error handling */
